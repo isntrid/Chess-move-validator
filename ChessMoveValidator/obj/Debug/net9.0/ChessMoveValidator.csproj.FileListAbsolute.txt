@@ -1,0 +1,15 @@
+C:\Users\ridn1\RiderProjects\Chess-move-validator\ChessMoveValidator\bin\Debug\net9.0\ChessMoveValidator.exe
+C:\Users\ridn1\RiderProjects\Chess-move-validator\ChessMoveValidator\bin\Debug\net9.0\ChessMoveValidator.deps.json
+C:\Users\ridn1\RiderProjects\Chess-move-validator\ChessMoveValidator\bin\Debug\net9.0\ChessMoveValidator.runtimeconfig.json
+C:\Users\ridn1\RiderProjects\Chess-move-validator\ChessMoveValidator\bin\Debug\net9.0\ChessMoveValidator.dll
+C:\Users\ridn1\RiderProjects\Chess-move-validator\ChessMoveValidator\bin\Debug\net9.0\ChessMoveValidator.pdb
+C:\Users\ridn1\RiderProjects\Chess-move-validator\ChessMoveValidator\obj\Debug\net9.0\ChessMoveValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ridn1\RiderProjects\Chess-move-validator\ChessMoveValidator\obj\Debug\net9.0\ChessMoveValidator.AssemblyInfoInputs.cache
+C:\Users\ridn1\RiderProjects\Chess-move-validator\ChessMoveValidator\obj\Debug\net9.0\ChessMoveValidator.AssemblyInfo.cs
+C:\Users\ridn1\RiderProjects\Chess-move-validator\ChessMoveValidator\obj\Debug\net9.0\ChessMoveValidator.csproj.CoreCompileInputs.cache
+C:\Users\ridn1\RiderProjects\Chess-move-validator\ChessMoveValidator\obj\Debug\net9.0\ChessMoveValidator.sourcelink.json
+C:\Users\ridn1\RiderProjects\Chess-move-validator\ChessMoveValidator\obj\Debug\net9.0\ChessMoveValidator.dll
+C:\Users\ridn1\RiderProjects\Chess-move-validator\ChessMoveValidator\obj\Debug\net9.0\refint\ChessMoveValidator.dll
+C:\Users\ridn1\RiderProjects\Chess-move-validator\ChessMoveValidator\obj\Debug\net9.0\ChessMoveValidator.pdb
+C:\Users\ridn1\RiderProjects\Chess-move-validator\ChessMoveValidator\obj\Debug\net9.0\ChessMoveValidator.genruntimeconfig.cache
+C:\Users\ridn1\RiderProjects\Chess-move-validator\ChessMoveValidator\obj\Debug\net9.0\ref\ChessMoveValidator.dll
