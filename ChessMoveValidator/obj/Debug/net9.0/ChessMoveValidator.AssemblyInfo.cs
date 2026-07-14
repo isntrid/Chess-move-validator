@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChessMoveValidator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+765a2485631cdd5498cb17379ffe3bb16fb31863")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27d573ec68f8febc687b65c3ec76adc7e660ed2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChessMoveValidator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChessMoveValidator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
