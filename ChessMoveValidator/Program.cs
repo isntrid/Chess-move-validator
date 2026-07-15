@@ -1,6 +1,40 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
+public class Board
+{
+    private HashSet<Piece> pieces = new HashSet<Piece>();
+
+    public void AddPiece(Piece piece)
+    {
+        pieces.Add(piece);
+    }
+
+    public HashSet<Position> GetOccupiedPositions()
+    {
+        HashSet<Position> positions = new HashSet<Position>();
+
+        foreach (Piece piece in pieces)
+        {
+            positions.Add(piece.Position);
+        }
+
+        return positions;
+    }
+
+    public bool ValidateResult(Position start, Position end)
+    {
+        HashSet<Position> positions = GetOccupiedPositions();
+
+        if (positions.Contains(end))
+        {
+            return false;
+        }
+
+        return true;
+    }
+}
+
 public abstract class Piece
 {
     public string Colour { get; set; }
@@ -20,6 +54,22 @@ public class Position
         X = x;
         Y = y;
     }
+    
+    public override bool Equals(object? obj)
+    {
+        if (obj is Position other)
+        {
+            return X == other.X && Y == other.Y;
+        }
+
+        return false;
+    }
+    
+    public override int GetHashCode()
+    {
+        return HashCode.Combine(X, Y);
+    }
+    
 }
 
 class Pawn : Piece

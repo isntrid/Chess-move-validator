@@ -14,12 +14,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b4cf555-a0db-4303-9bc4-4701384692a2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ChessMoveValidator/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ChessMoveValidator/.idea/awsToolkit.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ChessMoveValidator/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ChessMoveValidator/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ChessMoveValidator/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChessMoveValidator.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Chess move validator.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ChessMoveValidator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ChessMoveValidator/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/ChessMoveValidator.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/ChessMoveValidator.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/ChessMoveValidator.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/ChessMoveValidator.AssemblyInfoInputs.cache" afterDir="false" />
@@ -33,7 +28,7 @@
     <option name="firstShow" value="false" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="1" />
+    <option name="cachedIndexableFilesCount" value="4" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
@@ -46,100 +41,100 @@
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.4096479469833998" />
-      <entry key="MS500" value="3.2087794743371205" />
-      <entry key="S2" value="4.436206030365176" />
-      <entry key="S5" value="5.152456833223455" />
-      <entry key="S10" value="6.482928081014287" />
-      <entry key="S30" value="10.529608782229916" />
-      <entry key="S60" value="14.01683751564527" />
-      <entry key="M2" value="19.74998714653565" />
-      <entry key="M5" value="37.817789539770196" />
-      <entry key="M10" value="64.51555239468972" />
-      <entry key="M15" value="83.98198915269066" />
-      <entry key="M30" value="119.32404902195684" />
-      <entry key="H1" value="153.14809974643322" />
-      <entry key="H2" value="181.89034119191768" />
-      <entry key="H4" value="206.48931442650417" />
-      <entry key="D1" value="334.37226379944747" />
-      <entry key="W1" value="441.19106843747716" />
+      <entry key="MS100" value="1.8888426811665702" />
+      <entry key="MS500" value="1.9767085289622273" />
+      <entry key="S2" value="1.994125571294064" />
+      <entry key="S5" value="1.997651986650157" />
+      <entry key="S10" value="2.0068358884187645" />
+      <entry key="S30" value="3.327368598247986" />
+      <entry key="S60" value="6.986520620380524" />
+      <entry key="M2" value="12.114459697191215" />
+      <entry key="M5" value="21.675916331797936" />
+      <entry key="M10" value="30.725171524598075" />
+      <entry key="M15" value="35.58587719551039" />
+      <entry key="M30" value="45.590342524678135" />
+      <entry key="H1" value="77.60751140913365" />
+      <entry key="H2" value="144.06734134949392" />
+      <entry key="H4" value="221.4776619728245" />
+      <entry key="D1" value="427.8079212860487" />
+      <entry key="W1" value="561.1252993933001" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="2.831231951749895E-147" />
-      <entry key="S2" value="2.3067145908859046E-37" />
-      <entry key="S5" value="2.214101596522856E-15" />
-      <entry key="S10" value="4.7054241004649714E-8" />
-      <entry key="S30" value="0.003610794113540814" />
-      <entry key="S60" value="0.0620010351620124" />
-      <entry key="M2" value="0.37812650197928765" />
-      <entry key="M5" value="2.687783512289426" />
-      <entry key="M10" value="6.691143695092884" />
-      <entry key="M15" value="9.433024527221324" />
-      <entry key="M30" value="13.755642204096937" />
-      <entry key="H1" value="17.055772452221156" />
-      <entry key="H2" value="19.29166987419734" />
-      <entry key="H4" value="21.008112509381032" />
-      <entry key="D1" value="32.45749724935098" />
-      <entry key="W1" value="41.79321237228973" />
+      <entry key="MS100" value="9.315546929690914E-5" />
+      <entry key="MS500" value="0.15625778782315117" />
+      <entry key="S2" value="0.628724548830386" />
+      <entry key="S5" value="0.8305858714746491" />
+      <entry key="S10" value="0.912208139053844" />
+      <entry key="S30" value="1.064028514945048" />
+      <entry key="S60" value="1.2936698577208905" />
+      <entry key="M2" value="1.6435028330866948" />
+      <entry key="M5" value="2.931520307234166" />
+      <entry key="M10" value="4.505412352891395" />
+      <entry key="M15" value="5.38196830319207" />
+      <entry key="M30" value="6.979859874866682" />
+      <entry key="H1" value="11.00006915763372" />
+      <entry key="H2" value="18.55404980101191" />
+      <entry key="H4" value="26.75973356239779" />
+      <entry key="D1" value="47.07845997201048" />
+      <entry key="W1" value="59.18434273777373" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.2657395822564366" />
-      <entry key="MS500" value="3.1239624716049423" />
-      <entry key="S2" value="4.404829077725538" />
-      <entry key="S5" value="5.083560753207336" />
-      <entry key="S10" value="6.367388927587491" />
-      <entry key="S30" value="10.420608943217218" />
-      <entry key="S60" value="13.995170467296512" />
-      <entry key="M2" value="20.06745169477327" />
-      <entry key="M5" value="40.45657323625918" />
-      <entry key="M10" value="71.16311711595768" />
-      <entry key="M15" value="93.3769330302035" />
-      <entry key="M30" value="133.0528806909146" />
-      <entry key="H1" value="170.18699509038427" />
-      <entry key="H2" value="201.17215325860244" />
-      <entry key="H4" value="227.49188522739837" />
-      <entry key="D1" value="366.82836122879667" />
-      <entry key="W1" value="482.9840308792233" />
+      <entry key="MS100" value="0.9623991461879149" />
+      <entry key="MS500" value="1.4930605562663954" />
+      <entry key="S2" value="2.2594416662518655" />
+      <entry key="S5" value="2.6425696659999773" />
+      <entry key="S10" value="2.81728893202365" />
+      <entry key="S30" value="4.341584511921364" />
+      <entry key="S60" value="8.239021240102971" />
+      <entry key="M2" value="13.726645588862077" />
+      <entry key="M5" value="24.585580676472816" />
+      <entry key="M10" value="35.21475464185651" />
+      <entry key="M15" value="40.9554578348049" />
+      <entry key="M30" value="52.5618463830436" />
+      <entry key="H1" value="88.59955489135396" />
+      <entry key="H2" value="162.61343200437065" />
+      <entry key="H4" value="248.2311647330634" />
+      <entry key="D1" value="474.8844664512116" />
+      <entry key="W1" value="620.3093011170788" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3GPRiliKjJkhg1lQLvogwvmCsCj" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.ChessMoveValidator.executor": "Run",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "cidr.known.project.marker": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.ChessMoveValidator.executor&quot;: &quot;Run&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="ChessMoveValidator" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -171,6 +166,7 @@
       <option name="presentableId" value="Default" />
       <updated>1783871347040</updated>
       <workItem from="1783871347993" duration="11686000" />
+      <workItem from="1784136971543" duration="3924000" />
     </task>
     <servers />
   </component>
