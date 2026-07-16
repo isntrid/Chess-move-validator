@@ -73,7 +73,7 @@ public class Position
 }
 
 class Pawn : Piece
-{   // include the equation for black pieces too!!
+{
     public Pawn(Position position, string colour)
     {
         Position = position;
@@ -81,7 +81,12 @@ class Pawn : Piece
     }
     public override bool IsValid(Position destination)
     {
-        if (Position.X == destination.X && Position.Y+1 == destination.Y)
+        if (Position.X == destination.X && Position.Y+1 == destination.Y && Colour == "white")
+        {
+            return true;
+        }
+
+        if (Position.X == destination.X && Position.Y - 1 == destination.Y && Colour == "black")
         {
             return true;
         }
